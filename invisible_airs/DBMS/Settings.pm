@@ -18,7 +18,11 @@ require Exporter;
 
 use constant MYUSER   => 'xxxxx';
 use constant MYDATABASE => 'BRISTOL_EXPENSES';
+<<<<<<< HEAD
 use constant MYPASS => 'xxxxxx'; 
+=======
+use constant MYPASS => 'xxxxx'; 
+>>>>>>> 809f1acaffbe09d5a3ca724ecec9f5ee41534792
 
 use constant {
 
